@@ -6,7 +6,7 @@ We appreciate your interest in open and reproducible nutrition, obesity, and eat
 Got research you want to share? [NutriXiv submission page](https://osf.io/preprints/nutrixiv/submit).
 
 ## What is NutriXiv?
-NutriXiv is a free preprint server hosted through the Center for Open Science's [Open Science Framework (https://osf.io/dashboard) 
+NutriXiv is a free preprint server hosted through the Center for Open Science's [Open Science Framework] (https://osf.io/dashboard) 
 
 ```markdown
 Syntax highlighted code block
