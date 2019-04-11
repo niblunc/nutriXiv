@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome NutriXiv! 
 
-You can use the [editor on GitHub](https://github.com/niblunc/nutriXiv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We appreciate your interest in open and reproducible nutrition, obesity, and eating behavior. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Submit a paper
+Got research you want to share? [NutriXiv submission page](https://osf.io/preprints/nutrixiv/submit).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is NutriXiv?
+NutriXiv is a free preprint server hosted through the Center for Open Science's [Open Science Framework (https://osf.io/dashboard) 
 
 ```markdown
 Syntax highlighted code block
